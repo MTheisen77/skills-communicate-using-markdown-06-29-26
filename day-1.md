@@ -1,5 +1,6 @@
 # Daily Learning
 ## Morning Planning
+![Mona the Octocat](https://octodex.github.com/images/original.png)
 ## Review
 1. Step 1
 1. Step 2
