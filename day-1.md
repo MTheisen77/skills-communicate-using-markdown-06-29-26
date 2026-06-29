@@ -2,6 +2,7 @@
 ## Morning Planning
 <img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
 width="200" align="right">
+
 ## Review
 1. Step 1
 1. Step 2
